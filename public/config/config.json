@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0c2519203b316816a25025332c9fd26a0c675962",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0x0c2519203b316816a25025332c9fd26a0c675962",
+  "NETWORK": {
+    "NAME": "Ropsten",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "Zema Menen",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
